@@ -1,16 +1,17 @@
-$\text{<}$ SYSTEM INITIALIZED $\text{/>}$
+$\text{<}$ SYSTEM INITIALIZED: PEAKK $\text{/>}$
 
-$\text{[ACCESSING SECURE MAINFRAME... WELCOME, OPERATOR]}$
+$\text{[ACCESSING SECURE MAINFRAME... WELCOME, OPERATOR PEAKK-ORG]}$
 
 $\text{> } \text{SYSTEM\_DIAGNOSTICS}$
 
 {
-  "operator": "YOUR-NAME",
-  "designation": "Full-Stack Security & Cyber-Tech Engineer",
-  "location": "[CLASSIFIED]",
-  "core_directive": "Architecting resilient systems and weaponized user interfaces.",
-  "status": "Ready for deployment",
-  "clearance_level": "Root / Administrator"
+  "operator": "Peakk-Org",
+  "designation": "Full-Stack Security & Cyber-Tech Syndicate",
+  "location": "[SECURE / ENCRYPTED]",
+  "core_directive": "Architecting resilient systems, weaponized user interfaces, and next-gen protocols.",
+  "status": "Online & Executing",
+  "clearance_level": "Root / Administrator",
+  "primary_languages": ["Python", "Rust", "TypeScript", "C++"]
 }
 
 
@@ -22,26 +23,34 @@ Protocols & Tech Arsenal
 
 Languages
 
-Python, JavaScript, TypeScript, C++, Rust, HTML5, CSS3
+$\text{Python, JavaScript, TypeScript, C++, Rust, Go, HTML5, CSS3}$
 
 Frameworks
 
-React, Node.js, Next.js, Express, TailwindCSS
+$\text{React, Next.js, Node.js, Express, TailwindCSS, GraphQL}$
 
 Security & Net
 
-Wireshark, Nmap, Metasploit, Docker, Kubernetes, Linux/Unix
+$\text{Wireshark, Nmap, Metasploit, Docker, Kubernetes, Linux / Unix}$
 
 Databases
 
-PostgreSQL, MongoDB, Redis, Firebase
+$\text{PostgreSQL, MongoDB, Redis, Supabase, Firebase}$
 
-Tools
+Tools & Environments
 
-Git, VS Code, Postman, Linux CLI, Vim
+$\text{Git, GitHub Actions, VS Code, Postman, Linux CLI, Vim}$
 
 $\text{> } \text{GITHUB\_ANALYTICS\_HUB}$
 
 $\text{> } \text{NEURAL\_ACTIVITY\_LOG}$
+
+$\text{> } \text{FEATURED\_REPOSITORIES\_OR\_PROJECTS}$
+
+$\text{Project-Zero}$: High-performance cryptographic utility suite designed for fast-paced secure transmission.
+
+$\text{Cyber-Nexus}$: Real-time packet analysis visualizer built with Rust and modern web technologies.
+
+$\text{Vortex-Engine}$: Modular backend architecture optimized for high-concurrency event streams.
 
 $\text{> } \text{ESTABLISH\_COMMUNICATION}$
