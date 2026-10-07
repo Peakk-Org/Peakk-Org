@@ -1,56 +1,37 @@
-$\text{<}$ SYSTEM INITIALIZED: PEAKK $\text{/>}$
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
-$\text{[ACCESSING SECURE MAINFRAME... WELCOME, OPERATOR PEAKK-ORG]}$
+###
 
-$\text{> } \text{SYSTEM\_DIAGNOSTICS}$
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-{
-  "operator": "Peakk-Org",
-  "designation": "Full-Stack Security & Cyber-Tech Syndicate",
-  "location": "[SECURE / ENCRYPTED]",
-  "core_directive": "Architecting resilient systems, weaponized user interfaces, and next-gen protocols.",
-  "status": "Online & Executing",
-  "clearance_level": "Root / Administrator",
-  "primary_languages": ["Python", "Rust", "TypeScript", "C++"]
-}
+###
 
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-$\text{> } \text{HARDWARE\_AND\_SOFTWARE\_STACK}$
-
-Category
-
-Protocols & Tech Arsenal
-
-Languages
-
-$\text{Python, JavaScript, TypeScript, C++, Rust, Go, HTML5, CSS3}$
-
-Frameworks
-
-$\text{React, Next.js, Node.js, Express, TailwindCSS, GraphQL}$
-
-Security & Net
-
-$\text{Wireshark, Nmap, Metasploit, Docker, Kubernetes, Linux / Unix}$
-
-Databases
-
-$\text{PostgreSQL, MongoDB, Redis, Supabase, Firebase}$
-
-Tools & Environments
-
-$\text{Git, GitHub Actions, VS Code, Postman, Linux CLI, Vim}$
-
-$\text{> } \text{GITHUB\_ANALYTICS\_HUB}$
-
-$\text{> } \text{NEURAL\_ACTIVITY\_LOG}$
-
-$\text{> } \text{FEATURED\_REPOSITORIES\_OR\_PROJECTS}$
-
-$\text{Project-Zero}$: High-performance cryptographic utility suite designed for fast-paced secure transmission.
-
-$\text{Cyber-Nexus}$: Real-time packet analysis visualizer built with Rust and modern web technologies.
-
-$\text{Vortex-Engine}$: Modular backend architecture optimized for high-concurrency event streams.
-
-$\text{> } \text{ESTABLISH\_COMMUNICATION}$
+###
